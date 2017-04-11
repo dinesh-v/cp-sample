@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/March Lunchtime 2017/Task 1 - Bear and Ladder/Task 1 - Bear and Ladder.iml" filepath="$PROJECT_DIR$/March Lunchtime 2017/Task 1 - Bear and Ladder/Task 1 - Bear and Ladder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/March Lunchtime 2017/Task 2 - Bear and Species/Task 2 - Bear and Species.iml" filepath="$PROJECT_DIR$/March Lunchtime 2017/Task 2 - Bear and Species/Task 2 - Bear and Species.iml" />
+      <module fileurl="file://$PROJECT_DIR$/March Lunchtime 2017/Task 3 - Bear and Haircut/Task 3 - Bear and Haircut.iml" filepath="$PROJECT_DIR$/March Lunchtime 2017/Task 3 - Bear and Haircut/Task 3 - Bear and Haircut.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cp-sample.iml" filepath="$PROJECT_DIR$/.idea/cp-sample.iml" />
     </modules>
   </component>
