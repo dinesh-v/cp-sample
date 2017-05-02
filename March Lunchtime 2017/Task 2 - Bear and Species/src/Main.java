@@ -1,11 +1,19 @@
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class Main {
+
     public static void main(String[] args) {
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         Scanner scanner = new Scanner(System.in);
-        // Implement solution
+        int T = scanner.nextInt();
+        for (int t = 1; t <= T; t++) {
+            int N = scanner.nextInt();
+            scanner.nextLine();
+            String s = scanner.nextLine();
+            if (s.contains("cookie cookie") || s.endsWith("cookie")) {
+                System.out.println("NO");
+            } else {
+                System.out.println("YES");
+            }
+        }
     }
 }
